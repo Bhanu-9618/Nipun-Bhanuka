@@ -4,7 +4,7 @@ I'm a Diploma student in Institute of Computer Engineering Technology with a pas
 
 ## 🚀 Skills
 - Languages: Java, HTML, CSS, JavaScript... (Learning)
-- Concepts: programming fundamentals, OOP... (Learning)
+- Concepts: Software & Web development concepts... (Learning)
 
 ## 📂 Projects
 - Check out my profile..
