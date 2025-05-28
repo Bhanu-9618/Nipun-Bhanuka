@@ -1,14 +1,53 @@
-# Hello, I'm Nipun! 👋
+<h1 align="center">Hello, I'm Nipun! 👋</h1>
 
-I'm a Diploma student in Institute of Computer Engineering Technology with a passion for software and web Development.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+</p>
+
+<p align="center">
+  💻 Diploma Student @ Institute of Computer Engineering Technology <br>
+  🚀 Passionate about Software & Web Development
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;QA+Automation+Learner;Loves+Java+and+Web+Development;Building+Projects+Every+Day!">
+</p>
+
+---
 
 ## 🚀 Skills
-- Languages: Java, HTML, CSS, JavaScript... (Learning)
-- Concepts: Software & Web development concepts... (Learning)
 
-## 📂 Projects
-- Check out my profile..
+- 💻 **Languages**: Java, HTML, CSS, JavaScript *(Learning more...)*
+- 🧠 **Concepts**: Software & Web Development *(Still Learning & Practicing)*
 
-## 📫 Contact Me
-- Email: nipunbhanuka12@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nipun-bhanuka-359187364 
+---
+
+## 🛠️ Projects
+
+🔗 Explore my work on [GitHub Profile](https://github.com/nipun-bhanuka)
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [nipunbhanuka12@gmail.com](mailto:nipunbhanuka12@gmail.com)
+- 💼 LinkedIn: [Nipun Bhanuka](https://www.linkedin.com/in/nipun-bhanuka-359187364)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nipun-bhanuka&show_icons=true&theme=radical" alt="GitHub Stats" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun-bhanuka&layout=compact&theme=radical" alt="Top Languages" width="47%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/nipun-bhanuka/nipun-bhanuka/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
