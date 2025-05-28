@@ -35,19 +35,4 @@
 - 📧 Email: [nipunbhanuka12@gmail.com](mailto:nipunbhanuka12@gmail.com)
 - 💼 LinkedIn: [Nipun Bhanuka](https://www.linkedin.com/in/nipun-bhanuka-359187364)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nipun-bhanuka&show_icons=true&theme=radical" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun-bhanuka&layout=compact&theme=radical" alt="Top Languages" width="47%"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/nipun-bhanuka/nipun-bhanuka/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
