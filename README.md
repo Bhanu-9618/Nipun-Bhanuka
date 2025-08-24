@@ -20,6 +20,7 @@
 ## 🚀 Skills
 
 - 💻 **Languages**:  Java, JavaScript, HTML, CSS *(Learning more...)*
+- 🏗️ **Frameworks**: Springboot, React.js, Angular *(Learning more...)*
 
 ---
 
