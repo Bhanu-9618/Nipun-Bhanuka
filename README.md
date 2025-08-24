@@ -6,7 +6,7 @@
 
 <p align="center">
   💻 Diploma Student @ Institute of Computer Engineering Technology <br>
-  🚀 Passionate about Software & Web Development
+  🚀 Passionate about Full Stack Development
 </p>
 
 ---
@@ -19,8 +19,7 @@
 
 ## 🚀 Skills
 
-- 💻 **Languages**: Java, HTML, CSS, JavaScript *(Learning more...)*
-- 🧠 **Concepts**: Software & Web Development *(Still Learning & Practicing)*
+- 💻 **Languages**:  Java, JavaScript, HTML, CSS *(Learning more...)*
 
 ---
 
