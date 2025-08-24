@@ -26,7 +26,7 @@
 
 ## 🛠️ Projects
 
-🔗 Explore my work on [GitHub Profile](https://github.com/nipun-bhanuka)
+🔗 Explore my work on [GitHub Profile](https://github.com/Bhanu-9618)
 
 ---
 
