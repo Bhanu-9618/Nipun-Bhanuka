@@ -39,7 +39,6 @@ I love building **clean, efficient, and user-friendly applications** that make a
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=I'm+a+Full+Stack+Developer;I+love+Java+%26+React;Always+learning+new+tech)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhanu-9618&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-9618&layout=compact&theme=radical)
 
