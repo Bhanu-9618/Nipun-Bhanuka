@@ -79,24 +79,4 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </div>
-
 <br/>
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div align="center">
-  <a href="https://github.com/Bhanu-9618">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-9618&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="Nipun's GitHub Stats" />
-  </a>
-  <br/>
-  
-  <a href="https://github.com/Bhanu-9618">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-9618&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhanu-9618&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
