@@ -9,6 +9,13 @@
     I am a highly motivated and detail-oriented <b>Full Stack Software Engineer</b> with a solid foundation in front-end and back-end development. 
     Passionate about building scalable web applications and eager to apply my technical skills in a professional environment to solve real-world problems.
   </p>
+  
+  <a href="https://www.linkedin.com/in/nipun-bhanuka-359187364" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nipunbhanuka451@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
 <br/>
@@ -78,21 +85,18 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-9618&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="160"/>
+  <a href="https://github.com/Bhanu-9618">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-9618&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="Nipun's GitHub Stats" />
+  </a>
+  <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-9618&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Stats" height="160"/>
+  <a href="https://github.com/Bhanu-9618">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-9618&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
 
-<h2 align="center">📫 Connect with Me</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/nipun-bhanuka-359187364">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nipunbhanuka451@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Bhanu-9618&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-
-<br/>
